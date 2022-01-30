@@ -1,0 +1,8 @@
+{
+    "appId": "org.iota.spark",
+    "appName": "Spark wallet",
+    "bundledWebRuntime": false,
+    "npmClient": "yarn",
+    "webDir": ".build",
+    "cordova": {}
+}

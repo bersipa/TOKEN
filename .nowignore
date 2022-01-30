@@ -1,0 +1,5 @@
+.*
+/assets
+ios
+node_modules
+src-tauri
